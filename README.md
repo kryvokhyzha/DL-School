@@ -1,1 +1,1 @@
-# DL-School
+# Deep Learning School course
